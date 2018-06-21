@@ -9,5 +9,5 @@
 * Web in progress
 
 ## Credits:
-* Ion by TEMPLATED  | templated.co
+* Urban by TEMPLATED  | templated.co
 * Me
