@@ -2896,7 +2896,7 @@
 
 		.wrapper.style1 {
 			background-color: #fafafa;
-			color: #999999;
+			color: #000000;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
@@ -3874,7 +3874,7 @@
 		}
 
 		#footer .copyright {
-			color: #bfbfbf;
+			color: #000000;
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0;
