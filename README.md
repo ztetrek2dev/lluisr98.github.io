@@ -14,3 +14,6 @@ https://lluisr98.github.io/web/
 # Credits:
 * Urban by TEMPLATED  | templated.co
 * Me
+
+# Last update:
+* July 3, 2018
