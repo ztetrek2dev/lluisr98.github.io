@@ -16,4 +16,4 @@ https://lluisr98.github.io/web/
 * Me
 
 # Last update:
-* July 9, 2018
+* July 10, 2018
