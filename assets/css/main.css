@@ -2895,7 +2895,7 @@
 			}
 
 		.wrapper.style1 {
-			background-color: #fafafa;
+			background-color: white;
 			color: #000000;
 		}
 
@@ -3940,4 +3940,30 @@
 		.test {
 				list-style:none;
 				color: white;
+		}
+
+/* From Xataka WebBlogs SL*/
+
+		.cookies-overlay {
+		    width: 100%;
+		    position: fixed;
+		    bottom: -1px;
+		    left: 0;
+		    background: #111;
+		    color: #ccc;
+		    opacity: 0.9;
+		    font-size: 13px;
+		    line-height: 16px;
+		}
+
+		.cookies-wrapper {
+	    	margin-left: 16px;
+	   		margin-right: 16px;
+	  		padding: 1px 0;
+		}
+
+		.cookies-text {
+			text-align: center;
+			margin-top: 13px;
+			font-size: 16px;
 		}
