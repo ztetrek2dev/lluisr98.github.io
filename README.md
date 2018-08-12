@@ -12,6 +12,7 @@ https://lluisr98.github.io/web/
 * Web in progress
 
 # Credits:
+* W3School (Part of new CSS)
 * Urban by TEMPLATED  | templated.co
 * Me
 
