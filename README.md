@@ -9,7 +9,7 @@ https://lluisr98.github.io/web/
 * CSS3
 
 # Status:
-* Web in progress
+* Work in progress
 
 # Credits:
 * W3School (Part of new CSS)
