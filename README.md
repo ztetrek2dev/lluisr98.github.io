@@ -1,17 +1,18 @@
-### LluisR98 Personal Page
+#LluisR98 Personal Page
 
-## Link
+# Link
 https://lluisr98.github.io/web/
 
-## Language:
+# Language:
 * HTML5
 * JavaScript
 * CSS3
 
 # Status:
-* Web in progress
+* Work in progress
 
 # Credits:
+* W3School (Part of new CSS)
 * Urban by TEMPLATED  | templated.co
 * Me
 
