@@ -1,4 +1,4 @@
-#LluisR98 Personal Page
+# LluisR98's personal page
 
 # Link
 https://lluisr98.github.io/web/
@@ -17,4 +17,4 @@ https://lluisr98.github.io/web/
 * Me
 
 # Last update:
-* August, 2018
+* 29th August, 2018
