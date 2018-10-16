@@ -1,7 +1,7 @@
 # LluisR98's personal page
 
 # Link
-https://lluisr98.github.io/web/
+https://lluisr98.github.io/
 
 # Language:
 * HTML5
