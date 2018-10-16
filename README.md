@@ -1,7 +1,7 @@
 # LluisR98's personal page
 
 # Link
-https://lluisr98.github.io/web/
+https://lluisr98.github.io/
 
 # Language:
 * HTML5
@@ -17,4 +17,4 @@ https://lluisr98.github.io/web/
 * Me
 
 # Last update:
-* 09th October, 2018
+* 16th October, 2018
