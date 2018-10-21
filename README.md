@@ -1,8 +1,8 @@
 # [**LLUISR98'S PERSONAL WEB PAGE**](https://lluisr98.github.io/)
 
-<center>![Front image of the website.](./images/Readme_1.png)</center>
+![Front image of the website.](./images/Readme_1.png)
 
-<center>![HTML5.](./images/HTML.png)![CSS3.](./images/CSS.png)![JavaScript.](./images/JS.png)</center>
+![HTML5.](./images/HTML.png)![CSS3.](./images/CSS.png)![JavaScript.](./images/JS.png)
 
 ## Status:
 * Work in constant development, according to whether I like it or not.
